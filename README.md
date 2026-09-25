@@ -26,7 +26,9 @@
 
 ##  Who Am I
 
-I'm an **ECE student** and an aspiring **Network Engineer**, focused on building a solid foundation in enterprise routing & switching, network security, and automation. I like understanding how networks actually work under the hood — from Packet Tracer topologies to full virtual labs in GNS3 and EVE-NG — before layering automation on top with Python.
+**Electronics and Communications Engineering** student at **Qena University**, focused on **Enterprise and Service Provider Networking**. Passionate about understanding how enterprise and service provider networks are designed, deployed, operated, and secured.
+
+I like understanding how networks actually work under the hood — from Packet Tracer topologies to full virtual labs in GNS3 and EVE-NG — before layering automation on top with Python.
 
 Alongside networking, I lead technical teams and manage communications for several student engineering activities — I enjoy the technical side as much as the coordination side.
 
